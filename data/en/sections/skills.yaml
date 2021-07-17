@@ -1,0 +1,45 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+skills:
+- name: SQL Server
+  logo: "/images/sections/skills/sqlserver.png"
+  summary: "Proficient in all areas for SQL Server database administration; performance tuning, indexing beack up and retores etc. "
+  url: "https://www.microsoft.com/en-gb/sql-server/sql-server-2019"
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Using as the main language for professional development. effective in writing scalable, testable, and maintainable code."
+  url: "https://www.python.org/"
+
+- name: AWS 
+  logo: "/images/sections/skills/aws.png"
+  summary: "Certified cloud practitinor with experience working with AWS on enterprise projects."
+
+- name: Powershell
+  logo: "/images/sections/skills/powershell.png"
+  summary: "Proficient in writing supportable powershell scripts."
+
+- name: C#
+  logo: "/images/sections/skills/csharp.png"
+  summary: "Previous experiance with Windows forms and WPF development, along with C# scripting."
+
+- name: SQL Server Reporting Services (SSRS)
+  logo: "/images/sections/skills/sqlserver.png"
+  summary: "Competent in deploying, creating and suporting SSRS reports along with maintaining and installing the SSRS product."
+
+- name: SQL Server Integration Services (SSIS)
+  logo: "/images/sections/skills/sqlserver.png"
+  summary: "Skilled in creating and maintaining SSIS packages."
+
+- name: Presto SQL
+  logo: "/images/sections/skills/prestodb.png"
+  summary: "Experienced in creating and tuning presto sql statements."
+
+- name: git
+  logo: "/images/sections/skills/git.png"
+  summary: "Skilled in git and github CLI with the ability to maintain repository source control."

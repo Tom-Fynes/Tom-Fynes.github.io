@@ -1,0 +1,28 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: sql serer failure alerts
+  logo: /images/sections/skills/sqlserver.png
+  role: Developer
+  timeline: "March 2019"
+  repo: https://github.com/Tom-Fynes/SP_CreateAndEnableFailureAlerts 
+  summary: Production-Grade stored prc to add and amend sql server alerts.
+  tags: ["professional", "sql server", "database"]
+
