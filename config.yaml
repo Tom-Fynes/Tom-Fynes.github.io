@@ -42,7 +42,7 @@ features:
 # Site parameters
 params:
 
-  background: /images/site/background.jpg
+  background: /images/site/background.png
   # GitHub repo URL and branch of your site
   gitRepo: https://github.com/tom-fynes/tom-fynes.github.io
   gitBranch: main
