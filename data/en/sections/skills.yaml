@@ -8,7 +8,7 @@ section:
 skills:
 - name: SQL Server
   logo: "/images/sections/skills/sqlserver.png"
-  summary: "Proficient in all areas for SQL Server database administration; performance tuning, indexing beack up and retores etc. "
+  summary: "Proficient in all areas for SQL Server database development/ administration; performance tuning, indexing beack up and retores etc. "
   url: "https://www.microsoft.com/en-gb/sql-server/sql-server-2019"
 
 - name: Python
